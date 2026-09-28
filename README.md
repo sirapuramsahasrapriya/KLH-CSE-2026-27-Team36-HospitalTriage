@@ -9,7 +9,7 @@ A Hospital Emergency-Room Triage System that prioritizes patients based on the s
 
 ## Supervisor
 
-**Supervisor Name:** Sreeram Murthy
+**Supervisor Name:** Dr K Sreeram Murthy
 
 ## Abstract
 
