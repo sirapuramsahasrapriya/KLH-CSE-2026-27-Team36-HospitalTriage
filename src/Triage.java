@@ -13,7 +13,7 @@ public class Triage {
     public void displayTriage(double temperature, int heartRate) {
         String priority = calculatePriority(temperature, heartRate);
         System.out.println("Temperature: " + temperature);
-        System.out.println("Heart Rate: " + heartRate);
+        System.out.println(" heart rate: " + heartRate);
         System.out.println("Triage Priority: " + priority);
     }
 }
