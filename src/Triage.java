@@ -1,13 +1,13 @@
 public class Triage {
     public String calculatePriority(double temperature, int heartRate) {
         if (heartRate >= 120 || temperature >= 39.0) {
-            return "HIGH";
+            return "high";
         } 
         else if (heartRate >= 100 || temperature >= 37.5) {
-            return "MEDIUM";
+            return "medium";
         } 
         else {
-            return "LOW";
+            return "low";
         }
     }
     public void displayTriage(double temperature, int heartRate) {
